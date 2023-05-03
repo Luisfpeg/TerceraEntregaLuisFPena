@@ -1,0 +1,9 @@
+Para comprobar que el servidor está corriendo en el puerto 8080, abrir el navegador y visitar la URL http://localhost:8080/.
+
+Para obtener todos los productos, visitar la URL http://localhost:8080/products.
+
+Para obtener los primeros cinco productos, visitar la URL http://localhost:8080/products?limit=5.
+
+Para obtener un producto específico por su ID, visitar la URL http://localhost:8080/products/2 (cambiando 2 por el ID del producto deseado).
+
+Para obtener un error indicando que el producto no existe, visitar la URL http://localhost:8080/products/34123123 (cambiando 34123123 por un ID de producto que no existe en el archivo productos.json).

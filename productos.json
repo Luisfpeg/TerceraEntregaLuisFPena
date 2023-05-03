@@ -1,0 +1,74 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Camisa",
+        "descripcion": "Camisa de algodón para hombres",
+        "precio": 20.99,
+        "cantidad": 50
+      },
+      {
+        "id": 2,
+        "nombre": "Vestido",
+        "descripcion": "Vestido de seda para mujeres",
+        "precio": 59.99,
+        "cantidad": 20
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatos deportivos",
+        "descripcion": "Zapatos para correr para hombres",
+        "precio": 89.99,
+        "cantidad": 30
+      },
+      {
+        "id": 4,
+        "nombre": "Bolso",
+        "descripcion": "Bolso de cuero para mujeres",
+        "precio": 129.99,
+        "cantidad": 10
+      },
+      {
+        "id": 5,
+        "nombre": "Pantalones cortos",
+        "descripcion": "Pantalones cortos de verano para hombres",
+        "precio": 14.99,
+        "cantidad": 40
+      },
+      {
+        "id": 6,
+        "nombre": "Blusa",
+        "descripcion": "Blusa de seda para mujeres",
+        "precio": 49.99,
+        "cantidad": 15
+      },
+      {
+        "id": 7,
+        "nombre": "Sombrero",
+        "descripcion": "Sombrero de paja para hombres",
+        "precio": 24.99,
+        "cantidad": 25
+      },
+      {
+        "id": 8,
+        "nombre": "Bikini",
+        "descripcion": "Bikini de dos piezas para mujeres",
+        "precio": 39.99,
+        "cantidad": 12
+      },
+      {
+        "id": 9,
+        "nombre": "Sandalia",
+        "descripcion": "Sandalia de cuero para mujeres",
+        "precio": 69.99,
+        "cantidad": 18
+      },
+      {
+        "id": 10,
+        "nombre": "Mochila",
+        "descripcion": "Mochila de senderismo para hombres",
+        "precio": 79.99,
+        "cantidad": 8
+      }
+    ]
+  }
